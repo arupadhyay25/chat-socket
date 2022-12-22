@@ -1,0 +1,27 @@
+{
+  "name": "insight-central",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.4.4",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@next/font": "13.0.7",
+    "axios": "^1.2.1",
+    "eslint": "8.30.0",
+    "eslint-config-next": "13.0.7",
+    "express": "^4.18.2",
+    "framer-motion": "^6.5.1",
+    "next": "13.0.7",
+    "nodemon": "^2.0.20",
+    "react": "18.2.0",
+    "react-chat-engine": "^1.11.28",
+    "react-dom": "18.2.0"
+  }
+}
