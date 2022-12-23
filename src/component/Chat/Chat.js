@@ -9,7 +9,7 @@ import closeIcon from "../../images/closeIcon.png";
 
 let socket;
 
-const ENDPOINT = "https://aggressive-pike-overalls.cyclic.app/";
+const ENDPOINT = "http://localhost:3000/";
 
 const Chat = () => {
     const [id, setid] = useState("");
